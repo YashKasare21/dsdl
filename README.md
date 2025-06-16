@@ -44,3 +44,17 @@ Deep Learning
 CNNs for image processing
 
 Sequential learning with GRU, RNN, LSTM, and Bi-LSTM
+
+
+
+🛠️ Installation and Setup
+Python Installation:
+Download Python from python.org and install an IDE like PyCharm or VS Code.
+
+Libraries:
+Install required libraries using:
+
+bash
+pip install pandas numpy scikit-learn tensorflow torch sqlite3
+Databases:
+Use SQLite or MySQL for practicing SQL queries.
